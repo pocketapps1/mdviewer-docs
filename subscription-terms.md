@@ -1,5 +1,3 @@
-## MDViewer Subscription Terms (Auto‑Renewable)
-
 Last updated: 2026-04-09
 
 MDViewer offers optional Pro access via auto‑renewable subscriptions and a one‑time lifetime purchase.

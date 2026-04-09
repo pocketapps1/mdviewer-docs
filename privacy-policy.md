@@ -1,5 +1,3 @@
-## MDViewer Privacy Policy
-
 Last updated: 2026-04-09
 
 MDViewer (“the App”) respects your privacy. This policy explains what information the App handles and how.

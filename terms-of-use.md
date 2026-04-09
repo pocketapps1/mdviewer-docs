@@ -1,5 +1,3 @@
-## MDViewer Terms of Use
-
 Last updated: 2026-04-09
 
 These Terms of Use (“Terms”) govern your usage of MDViewer (“the App”).
