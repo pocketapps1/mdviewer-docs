@@ -1,4 +1,3 @@
-# MDViewer FAQ
 
 ## Does the App collect any data?
 No. MDViewer does not collect, store, or share personal data. See the [Privacy Policy](./privacy-policy.md).

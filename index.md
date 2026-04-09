@@ -1,4 +1,3 @@
-# MDViewer — Markdown Reader
 
 MDViewer is a lightweight Markdown tool for iOS and iPadOS:
 
